@@ -6,4 +6,4 @@ TechnologyInterest= Project management
 
 SkillGoal= Full-Stack
 
-Use= Python, JavaScript, Java, programming.
+Use= Python, JavaScript, Java, programming!!
