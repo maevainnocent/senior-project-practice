@@ -1,9 +1,6 @@
-Name= Maeva Innocent
-
-Major= Computer Science
-
-TechnologyInterest= Project management
-
-SkillGoal= Full-Stack
-
-Use= Python, JavaScript, Java, programming!!
+print("Senior Project Developer Profile")
+print()
+print("Name: Maeva Innocent")
+print("Major: Computer Science")
+print("Technology Interest: Artificial Intelligence")
+print("Skill Goal: Project Management")
